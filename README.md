@@ -29,3 +29,10 @@ Donation을 하게 되면 Klip 지갑에 있는 klay를 이용해 해당 캠페�
 ### 장기목표
 1. RN으로 개발 후 앱 런칭
 2. React.js로 개발 후 RN Wrapping 후 앱 런칭 
+
+
+## Role 
+김다운 : Backend
+배지선 : Backend
+백시아 : Frontend
+김민준 : Frontend
