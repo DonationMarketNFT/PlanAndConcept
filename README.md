@@ -2,8 +2,7 @@
 
 ## Team introduction
 Smart Contract를 이용하여 유용한 Service를 개발해보고자 모였습니다.
-</br>
-</br>
+</br></br>
 
 ## Concept
 
@@ -11,19 +10,28 @@ Smart Contract를 이용하여 유용한 Service를 개발해보고자 모였습
 </br>
 해당 플랫폼에 올라온 캠페인에 참여하면 예쁘고 감성적이고 약간의 과시욕까지 만족시켜줄 수 있는 NFT 제공 
 
+</br>
+
 ### Function
 </br>
 Donation을 하게 되면 Klip 지갑에 있는 klay를 이용해 해당 캠페인 Smart Contract abi 호출 --> 지정된 Donation Klay 수량을 주고 대신 특정 NFT를 반는다. 
+
 [TBD] 특정날짜 / 특정금액 옵션 기능
 목표 금액 미달 시, 환불 contract 동작
+</br></br>
 
 ## 4주차 과제 핵심기능
 같은 사진을 요청할 때 마다 보내는 기능 / 요청 시 minting 후 transaction 보내기 
+
+https://github.com/DonationMarketNFT/SmartContract
+
+</br></br>
 
 ## Keyword
 
 ### Donation
 
+</br></br>
 
 ## POC
 
