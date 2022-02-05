@@ -1,5 +1,10 @@
 # Donation Market App [NFT] - 조각보
 
+## Team introduction
+Smart Contract를 이용하여 유용한 Service를 개발해보고자 모였습니다.
+</br>
+</br>
+
 ## Concept
 
 ### 다양한 캠페인(환경보호나 특정 목적을 위한 캠페인)들이 모여 있는 플랫폼
