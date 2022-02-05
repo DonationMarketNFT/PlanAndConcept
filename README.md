@@ -36,11 +36,11 @@ https://github.com/DonationMarketNFT/SmartContract
 ## POC
 
 ### 단기목표  
-1. 캠페인 주최자가 특정 캠페인 등록 시, 날짜 금액만 입력 하면 자동으로 smart contract 생성 후 배포 및 등록 서비스 
+1. 캠페인 주최자가 특정 캠페인 등록 시, 날짜 금액만 입력 하면 자동으로 smart contract 생성 후 배포 및 등록 서비스 </br>
 2. 데모용 캠페인 여러개 생성 후 플랫폼에 등록 시 검수하는 절차 도입
 
 ### 장기목표
-1. RN으로 개발 후 앱 런칭
+1. RN으로 개발 후 앱 런칭</br>
 2. React.js로 개발 후 RN Wrapping 후 앱 런칭 
 
 
